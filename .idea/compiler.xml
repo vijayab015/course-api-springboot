@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="course-api" />
-        <module name="course-api-springboot" />
       </profile>
     </annotationProcessing>
   </component>
